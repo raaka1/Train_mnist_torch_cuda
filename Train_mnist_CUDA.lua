@@ -13,6 +13,7 @@
 -- 4/ description of training and test procedures
 --
 -- Clement Farabet
+-- Ravi Kiran.K (CUDA support)
 ----------------------------------------------------------------------
 
 require 'torch'
